@@ -1,6 +1,5 @@
 # Clone a project
 
-After you clone a project
 
 ## Available Scripts
 
